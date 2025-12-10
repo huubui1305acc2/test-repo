@@ -1,7 +1,6 @@
 # test-repo
 test repo for github
 for i in {2..25}; do
-  echo "Line $i" >> app.txt
 for i in {3..25}; do
 for i in {3..25}; do
 for i in {4..25}; do
