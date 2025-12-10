@@ -25,3 +25,4 @@ for i in {5..25}; do
   git add app.txt
   git commit -m "Update line $i"
 done
+for i in {6..25}; do
