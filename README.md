@@ -14,4 +14,7 @@ for i in {8..25}; do
 for i in {9..25}; do
 for i in {10..25}; do
 for i in {11..25}; do
+  echo "Line $i" >> app.txt
+  git add app.txt
+  git commit -m "Update line $i"
 done
